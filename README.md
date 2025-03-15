@@ -1,7 +1,7 @@
 ## Hi there 👋
--Name:Muchlasin Sidiq
--NIM:L200234242
--Class:X
+<br>Name:Muchlasin Sidiq
+<br>NIM:L200234242
+<br>Class:X
 <!--
 **MuchlasinSidiq/MuchlasinSidiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
